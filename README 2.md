@@ -1,12 +1,9 @@
-# C-
-C++ programs with different data structures implementation
+//Bhavit Sharma
 
-#Bhavit Sharma
-
-#Report the largest different element from a list when compared to a different list
+//Report the largest different element from a list when compared to a different list
 
 
-#=====================================================================
+//=====================================================================
 What the program does:
 
 
@@ -19,4 +16,4 @@ or there will be some elements left.
 
 Report the largest element from the BST using rightmost function if there is one, otherwise report "None"
 
-======================================================================#
+======================================================================//
