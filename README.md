@@ -1,4 +1,4 @@
-# C-
+# C-plus-plus
 C++ programs with different data structures implementation
 
 #Bhavit Sharma
