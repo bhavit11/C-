@@ -5,7 +5,7 @@
 // Most of the ideas for BST implementation were directly taken from the Psuedo code given to students by Dr. David Mitchell in class. Also ideas on how to implement in C++ was taken from different Labs and Assignments from CMPT 225 class
 
 
-#include "Assign4.h"
+#include "bst.h"
 
 bst::bst(){
     root=NULL;

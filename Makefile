@@ -1,4 +1,4 @@
 all:
-	g++ a4.cpp -o a4
+	g++ main.cpp -o main
 clean:
-	rm -f a4 *.o
+	rm -f main *.o

@@ -1,8 +1,5 @@
 //
-//  Assign4.h
-//  
-//
-//  Created by Bhavit Sharma on 2015-04-15.
+//  Created by Bhavit Sharma
 //
 //
 

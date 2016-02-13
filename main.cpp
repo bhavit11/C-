@@ -1,19 +1,17 @@
-/*Assignment 4 - 301131169  bsharma   Bhavit Sharma
- 
- **  a4.cpp
- **  Assignment 4, CMPT-225, Spring 2015
+/*Bhavit Sharma
+
  **
  **  Reads a sequence of integers (in the range of int's) from standard in;
  **  It is interpreted as two lists, separated by a single 0
  **/
 #include <iostream>
-#include "Assign4.cpp"
+#include "bst.cpp"
 #include "queue.cpp"
 using namespace std;
 
 int main(){
     
-    cout<<"301131169 bsharma BhavitSharma"<<endl;
+    cout<<"Bhavit Sharma"<<endl;
     bst list1;
     Queue list2;
     int x ;
